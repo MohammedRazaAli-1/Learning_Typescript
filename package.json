@@ -1,0 +1,24 @@
+{
+  "name": "learning_typescript",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of my TypeScript learning journey, covering fundamentals to advanced concepts with practical examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedRazaAli-1/Learning_Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MohammedRazaAli-1/Learning_Typescript/issues"
+  },
+  "homepage": "https://github.com/MohammedRazaAli-1/Learning_Typescript#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
